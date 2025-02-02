@@ -6,6 +6,7 @@
 - Frontend & Backend Development
 - Database Management
 - Web Application Development
+- Web Sites Development 
 
 ## 🌱 Currently Learning
 - Angular & TypeScript
