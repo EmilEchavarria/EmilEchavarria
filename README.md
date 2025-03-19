@@ -19,7 +19,7 @@
 - Software projects that solve real-world problems
 
 ## 📫 How to Reach Me
-- 📩 Email: [emil.echavarria@gmail.com](mailto:emil.echavarria@gmail.com)
+- 📩 Email: [emilechavarria@gmail.com](mailto:emilechavarria@gmail.com)
 - 🌐 Portfolio: [#](#)
 - 💻 GitHub: [github.com/EmilEchavarria](https://github.com/EmilEchavarria)
 
