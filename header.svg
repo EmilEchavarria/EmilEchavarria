@@ -1,46 +1,46 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="210" viewBox="0 0 1200 210" fill="none" role="img" aria-label="Emil Echavarria">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="210" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#070B12"/>
-      <stop offset="0.55" stop-color="#0A1220"/>
-      <stop offset="1" stop-color="#071018"/>
+      <stop stop-color="#05070C"/>
+      <stop offset="0.55" stop-color="#08090D"/>
+      <stop offset="1" stop-color="#05070C"/>
     </linearGradient>
     <radialGradient id="glowL" cx="180" cy="70" r="280" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#64FFDA" stop-opacity="0.16"/>
-      <stop offset="1" stop-color="#64FFDA" stop-opacity="0"/>
+      <stop stop-color="#3B82F6" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#3B82F6" stop-opacity="0"/>
     </radialGradient>
     <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
-      <path d="M32 0H0V32" fill="none" stroke="#64FFDA" stroke-opacity="0.05"/>
+      <path d="M32 0H0V32" fill="none" stroke="#3B82F6" stroke-opacity="0.06"/>
     </pattern>
   </defs>
 
   <rect width="1200" height="210" fill="url(#bg)"/>
   <rect width="1200" height="210" fill="url(#glowL)"/>
   <rect width="1200" height="210" fill="url(#grid)"/>
-  <rect width="5" height="210" fill="#64FFDA"/>
-  <rect x="0" y="206" width="1200" height="4" fill="#64FFDA" fill-opacity="0.45"/>
+  <rect width="5" height="210" fill="#3B82F6"/>
+  <rect x="0" y="206" width="1200" height="4" fill="#3B82F6" fill-opacity="0.5"/>
 
-  <text x="44" y="62" fill="#94A3B8" font-family="Consolas, ui-monospace, monospace" font-size="13" letter-spacing="2.4">SOFTWARE DEVELOPER</text>
-  <text x="44" y="110" fill="#F8FAFC" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="44" font-weight="700" letter-spacing="-0.8">Emil Echavarria</text>
-  <text x="44" y="142" fill="#94A3B8" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="17">Junior Systems Engineer at Giro Credito</text>
+  <text x="44" y="62" fill="#94A3B8" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" letter-spacing="2.4">SOFTWARE DEVELOPER</text>
+  <text x="44" y="110" fill="#FFFFFF" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="44" font-weight="700" letter-spacing="-0.8">Emil Echavarria</text>
+  <text x="44" y="142" fill="#3B82F6" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="16" font-weight="700" letter-spacing="1.2">JUNIOR SYSTEMS ENGINEER  |  WEB, MOBILE &amp; BACKEND</text>
 
-  <rect x="44" y="162" width="90" height="26" rx="4" fill="#64FFDA" fill-opacity="0.10" stroke="#64FFDA" stroke-opacity="0.55"/>
-  <text x="89" y="180" text-anchor="middle" fill="#64FFDA" font-family="Consolas, ui-monospace, monospace" font-size="11" letter-spacing="1.2">MOBILE</text>
+  <rect x="44" y="162" width="90" height="26" rx="4" fill="#3B82F6" fill-opacity="0.10" stroke="#3B82F6" stroke-opacity="0.7"/>
+  <text x="89" y="180" text-anchor="middle" fill="#3B82F6" font-family="Consolas, ui-monospace, monospace" font-size="11" letter-spacing="1.2">MOBILE</text>
 
-  <rect x="142" y="162" width="64" height="26" rx="4" fill="#64FFDA" fill-opacity="0.10" stroke="#64FFDA" stroke-opacity="0.55"/>
-  <text x="174" y="180" text-anchor="middle" fill="#64FFDA" font-family="Consolas, ui-monospace, monospace" font-size="11" letter-spacing="1.2">WEB</text>
+  <rect x="142" y="162" width="64" height="26" rx="4" fill="#3B82F6" fill-opacity="0.10" stroke="#3B82F6" stroke-opacity="0.7"/>
+  <text x="174" y="180" text-anchor="middle" fill="#3B82F6" font-family="Consolas, ui-monospace, monospace" font-size="11" letter-spacing="1.2">WEB</text>
 
-  <rect x="214" y="162" width="92" height="26" rx="4" fill="#64FFDA" fill-opacity="0.10" stroke="#64FFDA" stroke-opacity="0.55"/>
-  <text x="260" y="180" text-anchor="middle" fill="#64FFDA" font-family="Consolas, ui-monospace, monospace" font-size="11" letter-spacing="1.2">BACKEND</text>
+  <rect x="214" y="162" width="92" height="26" rx="4" fill="#3B82F6" fill-opacity="0.10" stroke="#3B82F6" stroke-opacity="0.7"/>
+  <text x="260" y="180" text-anchor="middle" fill="#3B82F6" font-family="Consolas, ui-monospace, monospace" font-size="11" letter-spacing="1.2">BACKEND</text>
 
-  <rect x="314" y="162" width="70" height="26" rx="4" fill="#64FFDA" fill-opacity="0.10" stroke="#64FFDA" stroke-opacity="0.55"/>
-  <text x="349" y="180" text-anchor="middle" fill="#64FFDA" font-family="Consolas, ui-monospace, monospace" font-size="11" letter-spacing="1.2">NEXT</text>
+  <rect x="314" y="162" width="70" height="26" rx="4" fill="#3B82F6" fill-opacity="0.10" stroke="#3B82F6" stroke-opacity="0.7"/>
+  <text x="349" y="180" text-anchor="middle" fill="#3B82F6" font-family="Consolas, ui-monospace, monospace" font-size="11" letter-spacing="1.2">NEXT</text>
 
-  <rect x="392" y="162" width="92" height="26" rx="4" fill="#64FFDA" fill-opacity="0.10" stroke="#64FFDA" stroke-opacity="0.55"/>
-  <text x="438" y="180" text-anchor="middle" fill="#64FFDA" font-family="Consolas, ui-monospace, monospace" font-size="11" letter-spacing="1.2">EXPRESS</text>
+  <rect x="392" y="162" width="92" height="26" rx="4" fill="#3B82F6" fill-opacity="0.10" stroke="#3B82F6" stroke-opacity="0.7"/>
+  <text x="438" y="180" text-anchor="middle" fill="#3B82F6" font-family="Consolas, ui-monospace, monospace" font-size="11" letter-spacing="1.2">EXPRESS</text>
 
-  <rect x="492" y="162" width="70" height="26" rx="4" fill="#64FFDA" fill-opacity="0.10" stroke="#64FFDA" stroke-opacity="0.55"/>
-  <text x="527" y="180" text-anchor="middle" fill="#64FFDA" font-family="Consolas, ui-monospace, monospace" font-size="11" letter-spacing="1.2">NEST</text>
+  <rect x="492" y="162" width="70" height="26" rx="4" fill="#3B82F6" fill-opacity="0.10" stroke="#3B82F6" stroke-opacity="0.7"/>
+  <text x="527" y="180" text-anchor="middle" fill="#3B82F6" font-family="Consolas, ui-monospace, monospace" font-size="11" letter-spacing="1.2">NEST</text>
 
-  <text x="580" y="180" fill="#64748B" font-family="Consolas, ui-monospace, monospace" font-size="11">PA  ·  U.S. WORK AUTHORIZED</text>
+  <text x="580" y="180" fill="#94A3B8" font-family="Consolas, ui-monospace, monospace" font-size="11">PA  ·  U.S. WORK AUTHORIZED</text>
 </svg>
