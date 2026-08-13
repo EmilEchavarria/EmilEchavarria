@@ -1,127 +1,67 @@
-<div align="center">
+# Emil Echavarría
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:1a1a2e,100:16213e&height=200&section=header&text=Emil%20Echavarria&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Integrations%20%7C%20Microservices&descAlignY=58&descSize=16&descColor=8892b0" width="100%"/>
+**Junior Systems Engineer** at [Giro Crédito](https://girocredito.com) · mobile, web, and backend in production.
 
-<br/>
+York, PA · U.S. Work Authorized · No sponsorship required
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=64FFDA&center=true&vCenter=true&width=600&lines=Building+things+that+matter.;Microservices+%E2%80%A2+ML+%E2%80%A2+AI+Integrations;Front-End+%E2%80%A2+Back-End+%E2%80%A2+Full-Stack;York%2C+PA+%E2%80%94+U.S.+Work+Authorized)](https://git.io/typing-svg)
-
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-emilechavarria.vercel.app-64FFDA?style=for-the-badge&logo=vercel&logoColor=64FFDA&labelColor=0a0a0a)](https://emilechavarria.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-emil--echavarria-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a)](https://linkedin.com/in/emil-echavarria)
-[![Email](https://img.shields.io/badge/Email-emilechavarria2005@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a)](mailto:emilechavarria2005@gmail.com)
-
-</div>
+[Portfolio](https://emilechavarria.vercel.app) · [LinkedIn](https://linkedin.com/in/emil-echavarria) · [Email](mailto:emilechavarria2005@gmail.com)
 
 ---
 
-## About
+## Experience
 
-Full-stack developer currently interning at **Giro Crédito** (fintech, Santo Domingo), building production-grade web and mobile platforms with React, TypeScript, and React Native. Academic capstone involved architecting a 6-service microservices medical platform with applied ML and OpenAI integration.
+### Junior Systems Engineer · Giro Crédito
+**Jul 2026 – Present** · Remote · Santo Domingo, DR · Full-time
 
-2nd place at the **AlphaRamos Retail Hackathon** with SirenaMap — an indoor navigation system for supermarkets using ESP32 beacons and trilateration.
+Fintech. I ship production features across three codebases: the mobile app, the web portal, and the backend.
 
-- Currently working on **AgroGestor**, an agricultural SaaS platform with an AI assistant
-- Graduating from **ITLA** in October 2026 — GPA 3.8/4.0
-- Languages: Spanish (native) · English (intermediate)
-- Based in **York, Pennsylvania** · U.S. Work Authorized · No sponsorship required
+- **Mobile** — React Native, Expo, TypeScript. Loan and collections UX: Giro Cuotas, Giro Solidario, Friends & Family, Giro Puntos (referrals, points, checkout redemption), KYC, Plan de Pago, bank-account confirmation, and zero-interest extensions. Home-screen UI refresh. Maestro E2E for auth, forms, loans, and payments.
+- **Web** — Next.js, React, TypeScript, Tailwind. Public referral landing with app-download tracking, KYC improvements, MDX blog, brand updates, and Meta/UTM attribution.
+- **Backend** — Python, Django, Django Ninja. REST APIs for loan re-offers, deep links (WhatsApp / push / SMS / email), Meta Conversions API, and Giro Cobros — a multichannel collections cadence (push, WhatsApp, SMS, email, voice).
+- Work across Frontend and Backend boards: API contracts, edge cases, and production releases.
 
----
+`TypeScript` `React Native` `Expo` `React` `Next.js` `Python` `Django` `PostgreSQL` `Celery` `Redis` `AWS`
 
-## Tech Stack
-
-**Languages**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-
-**Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.net&logoColor=white)
-
-**Databases**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-
-**AI & ML**
-
-![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-0073AA?style=flat-square)
-
-**DevOps & Tools**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS S3](https://img.shields.io/badge/AWS_S3-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-000000?style=flat-square&logo=railway&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+<!-- Add the next role below this line -->
 
 ---
 
-## Featured Projects
+## Selected work
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### IntelecMed — CDSS
-**NestJS · FastAPI · Next.js · PostgreSQL · MongoDB · Docker · AWS S3 · OpenAI · scikit-learn · XGBoost**
+**[IntelecMed](https://github.com/EmilEchavarria/intelecmed)** — Clinical Decision Support  
+NestJS · FastAPI · Next.js · PostgreSQL · MongoDB · Docker · AWS S3 · OpenAI
 
-Academic capstone. Microservices-based Clinical Decision Support System with 6 independent services. Trained ML models (RandomForest + XGBoost) for cardiovascular and diabetes risk prediction. Integrated 5 GPT-powered features including RAG-based chat over patient records, AI triage assistant, and clinical document Vision analysis. Multi-layer security with RBAC, JWT rotation, and brute force detection.
-
-`Microservices` `Machine Learning` `HealthTech` `AI`
+Academic capstone. Six-service medical platform (gateway, auth, clinical, audit, storage, AI). RandomForest + XGBoost for cardiovascular and diabetes risk, with SMOTE, GridSearchCV, and SHAP. Five GPT features: RAG over patient records, triage, 6-month forecast, and clinical document Vision.
 
 </td>
 <td width="50%" valign="top">
 
-### AgroGestor *(In Progress)*
-**Next.js · Express.js · PostgreSQL · Tailwind CSS · Railway**
+**AgroGestor** — Agricultural SaaS *(in progress)*  
+Next.js · Express · PostgreSQL · Tailwind · Railway · OpenAI
 
-Agricultural SaaS platform centralizing crop control, inventory, sales, and expenses. Tiered subscription system (Basic, Pro, Enterprise) with role-based access control. Integrated "Oli" — an AI assistant for pest management and real-time farming support powered by OpenAI.
-
-`SaaS` `Full-Stack` `AI Integration` `Agriculture`
+Crop control, inventory, sales, and expenses in one product. Tiered plans (Basic, Pro, Enterprise) with RBAC. “Oli” — an AI assistant for pest management and day-to-day farm support.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### DashBite
-**Express.js · Handlebars · JavaScript · Tailwind · MySQL · Railway**
+**SirenaMap** — Indoor navigation  
+Flutter · ESP32 · BLE · Trilateration
 
-Fullstack food ordering platform with management for clients, businesses, and delivery personnel. Features login, profiles, catalogs, order tracking, reports, and admin panels.
-
-`Full-Stack` `REST APIs` `Dashboard`
+2nd place, AlphaRamos Retail Hackathon. Indoor GPS for supermarkets using ESP32 beacons and trilateration (~±2 m). Lead on mobile, IoT, and landing.
 
 </td>
 <td width="50%" valign="top">
 
-### Stockify
-**C# · .NET Framework · MySQL**
+**DashBite** — Food ordering  
+Express · Handlebars · MySQL · Railway
 
-Desktop application for inventory and sales management with stock validations, PDF invoice generation, and financial reporting.
-
-`Desktop App` `C#` `.NET` `Reports`
+Full-stack ordering for clients, businesses, and drivers: catalogs, tracking, reports, and admin.
 
 </td>
 </tr>
@@ -129,52 +69,22 @@ Desktop application for inventory and sales management with stock validations, P
 
 ---
 
-## GitHub Stats
+## Stack
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=EmilEchavarria&show_icons=true&theme=merko&hide_border=true&bg_color=0d1117&title_color=64FFDA&icon_color=64FFDA&text_color=8892b0&ring_color=64FFDA" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmilEchavarria&layout=compact&theme=merko&hide_border=true&bg_color=0d1117&title_color=64FFDA&text_color=8892b0&langs_count=8" />
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=EmilEchavarria&theme=merko&hide_border=true&background=0d1117&stroke=64FFDA&ring=64FFDA&fire=FF6B6B&currStreakNum=ffffff&sideNums=8892b0&currStreakLabel=64FFDA&sideLabels=8892b0&dates=8892b0" />
-
-</div>
-
----
-## ━━ Highlights
-
-<table>
-<tr>
-<td align="center" width="60">🏆</td>
-<td><strong>2nd Place — AlphaRamos Retail Hackathon</strong><br/><sub>SirenaMap · ESP32 beacons · IoT indoor navigation · ±2m precision</sub></td>
-<td align="right"><img src="https://img.shields.io/badge/Hackathon-Winner-FFD700?style=flat-square&labelColor=0d1117"/></td>
-</tr>
-<tr><td colspan="3"><img src="https://capsule-render.vercel.app/api?type=rect&color=0a192f&height=1" width="100%"/></td></tr>
-<tr>
-<td align="center" width="60">🏦</td>
-<td><strong>Front-End Developer Intern — Giro Crédito</strong><br/><sub>Fintech · Production · React · TypeScript · React Native</sub></td>
-<td align="right"><img src="https://img.shields.io/badge/Status-Active-64FFDA?style=flat-square&labelColor=0d1117"/></td>
-</tr>
-<tr><td colspan="3"><img src="https://capsule-render.vercel.app/api?type=rect&color=0a192f&height=1" width="100%"/></td></tr>
-<tr>
-<td align="center" width="60">🎓</td>
-<td><strong>ITLA — Technologist in Software Development</strong><br/><sub>GPA 3.8 / 4.0 · Graduating October 2026</sub></td>
-<td align="right"><img src="https://img.shields.io/badge/GPA-3.8%2F4.0-64FFDA?style=flat-square&labelColor=0d1117"/></td>
-</tr>
-<tr><td colspan="3"><img src="https://capsule-render.vercel.app/api?type=rect&color=0a192f&height=1" width="100%"/></td></tr>
-<tr>
-<td align="center" width="60">📜</td>
-<td><strong>Meta Front-End Developer Professional Certificate</strong><br/><sub>In Progress</sub></td>
-<td align="right"><img src="https://img.shields.io/badge/Meta-In%20Progress-0668E1?style=flat-square&labelColor=0d1117"/></td>
-</tr>
-</table>
+| | |
+|---|---|
+| **Languages** | TypeScript, JavaScript, Python, C# |
+| **Client** | React, Next.js, React Native, Expo, Tailwind |
+| **Server** | Node.js, NestJS, Django, FastAPI, .NET |
+| **Data** | PostgreSQL, MySQL, MongoDB, Redis, Prisma |
+| **AI** | OpenAI, scikit-learn, XGBoost |
+| **Infra** | Docker, AWS, Celery, Railway, Vercel, Git |
 
 ---
 
-<div align="center">
+## Education
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0f0f0f&height=100&section=footer" width="100%"/>
+**Software Development** — ITLA (Instituto Tecnológico de las Américas)  
+GPA 3.8 / 4.0 · Graduating October 2026
 
-</div>
+Spanish (native) · English (intermediate)
