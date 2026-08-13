@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="195" viewBox="0 0 320 195" fill="none" role="img" aria-label="Top languages">
+  <rect width="320" height="195" rx="8" fill="#0d1117"/>
+  <text x="20" y="36" fill="#64FFDA" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="16" font-weight="650">Most Used Languages</text>
+
+  <text x="20" y="68" fill="#e6edf3" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="12">HTML</text>
+  <text x="300" y="68" text-anchor="end" fill="#8892b0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="12">38.8%</text>
+  <rect x="20" y="74" width="280" height="6" rx="3" fill="#21262d"/>
+  <rect x="20" y="74" width="109" height="6" rx="3" fill="#e34c26"/>
+
+  <text x="20" y="102" fill="#e6edf3" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="12">TypeScript</text>
+  <text x="300" y="102" text-anchor="end" fill="#8892b0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="12">17.5%</text>
+  <rect x="20" y="108" width="280" height="6" rx="3" fill="#21262d"/>
+  <rect x="20" y="108" width="49" height="6" rx="3" fill="#3178c6"/>
+
+  <text x="20" y="136" fill="#e6edf3" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="12">C#</text>
+  <text x="300" y="136" text-anchor="end" fill="#8892b0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="12">13.3%</text>
+  <rect x="20" y="142" width="280" height="6" rx="3" fill="#21262d"/>
+  <rect x="20" y="142" width="37" height="6" rx="3" fill="#239120"/>
+
+  <text x="20" y="170" fill="#e6edf3" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="12">CSS</text>
+  <text x="300" y="170" text-anchor="end" fill="#8892b0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="12">11.9%</text>
+  <rect x="20" y="176" width="280" height="6" rx="3" fill="#21262d"/>
+  <rect x="20" y="176" width="33" height="6" rx="3" fill="#563d7c"/>
+</svg>
