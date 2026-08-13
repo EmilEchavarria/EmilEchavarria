@@ -1,53 +1,58 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220" fill="none" role="img" aria-label="Emil Echavarria - Junior Systems Engineer">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" fill="none" role="img" aria-label="Emil Echavarria">
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="220" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#07090D"/>
-      <stop offset="1" stop-color="#0B1524"/>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="280" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#070B12"/>
+      <stop offset="0.55" stop-color="#0A1220"/>
+      <stop offset="1" stop-color="#071018"/>
     </linearGradient>
-    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
-      <path d="M28 0H0V28" fill="none" stroke="#64FFDA" stroke-opacity="0.045"/>
+    <radialGradient id="glowL" cx="180" cy="80" r="280" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#64FFDA" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#64FFDA" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowR" cx="980" cy="200" r="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#3B82F6" stop-opacity="0.14"/>
+      <stop offset="1" stop-color="#3B82F6" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#64FFDA" stroke-opacity="0.05"/>
     </pattern>
-    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
-      <feGaussianBlur stdDeviation="6" result="b"/>
-      <feMerge>
-        <feMergeNode in="b"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
   </defs>
 
-  <rect width="1200" height="220" fill="url(#bg)"/>
-  <rect width="1200" height="220" fill="url(#grid)"/>
-  <rect width="4" height="220" fill="#64FFDA"/>
-  <rect x="0" y="216" width="1200" height="4" fill="#64FFDA" fill-opacity="0.35"/>
+  <rect width="1200" height="280" fill="url(#bg)"/>
+  <rect width="1200" height="280" fill="url(#glowL)"/>
+  <rect width="1200" height="280" fill="url(#glowR)"/>
+  <rect width="1200" height="280" fill="url(#grid)"/>
+  <rect width="5" height="280" fill="#64FFDA"/>
+  <rect x="0" y="276" width="1200" height="4" fill="#64FFDA" fill-opacity="0.45"/>
 
-  <text x="40" y="86" fill="#E6F1FF" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="38" font-weight="600" letter-spacing="-0.5">Emil Echavarria</text>
-  <text x="40" y="118" fill="#8892B0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="16">Junior Systems Engineer  -  Giro Credito  -  Mobile / Web / Backend</text>
+  <text x="44" y="78" fill="#94A3B8" font-family="Consolas, ui-monospace, monospace" font-size="13" letter-spacing="2.4">SOFTWARE DEVELOPER</text>
+  <text x="44" y="128" fill="#F8FAFC" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="44" font-weight="700" letter-spacing="-0.8">Emil Echavarria</text>
+  <text x="44" y="162" fill="#94A3B8" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="17">Junior Systems Engineer at Giro Credito</text>
 
-  <rect x="40" y="146" width="86" height="26" rx="3" fill="#64FFDA" fill-opacity="0.08" stroke="#64FFDA" stroke-opacity="0.4"/>
-  <text x="83" y="164" text-anchor="middle" fill="#64FFDA" font-family="Consolas, ui-monospace, monospace" font-size="11" letter-spacing="1.2">MOBILE</text>
+  <rect x="44" y="188" width="90" height="28" rx="4" fill="#64FFDA" fill-opacity="0.10" stroke="#64FFDA" stroke-opacity="0.55"/>
+  <text x="89" y="207" text-anchor="middle" fill="#64FFDA" font-family="Consolas, ui-monospace, monospace" font-size="11" letter-spacing="1.4">MOBILE</text>
 
-  <rect x="134" y="146" width="62" height="26" rx="3" fill="#64FFDA" fill-opacity="0.08" stroke="#64FFDA" stroke-opacity="0.4"/>
-  <text x="165" y="164" text-anchor="middle" fill="#64FFDA" font-family="Consolas, ui-monospace, monospace" font-size="11" letter-spacing="1.2">WEB</text>
+  <rect x="142" y="188" width="64" height="28" rx="4" fill="#64FFDA" fill-opacity="0.10" stroke="#64FFDA" stroke-opacity="0.55"/>
+  <text x="174" y="207" text-anchor="middle" fill="#64FFDA" font-family="Consolas, ui-monospace, monospace" font-size="11" letter-spacing="1.4">WEB</text>
 
-  <rect x="204" y="146" width="86" height="26" rx="3" fill="#64FFDA" fill-opacity="0.08" stroke="#64FFDA" stroke-opacity="0.4"/>
-  <text x="247" y="164" text-anchor="middle" fill="#64FFDA" font-family="Consolas, ui-monospace, monospace" font-size="11" letter-spacing="1.2">BACKEND</text>
+  <rect x="214" y="188" width="92" height="28" rx="4" fill="#64FFDA" fill-opacity="0.10" stroke="#64FFDA" stroke-opacity="0.55"/>
+  <text x="260" y="207" text-anchor="middle" fill="#64FFDA" font-family="Consolas, ui-monospace, monospace" font-size="11" letter-spacing="1.4">BACKEND</text>
 
-  <text x="308" y="164" fill="#4A5568" font-family="Consolas, ui-monospace, monospace" font-size="11">YORK, PA  -  US WORK AUTHORIZED</text>
+  <text x="320" y="207" fill="#64748B" font-family="Consolas, ui-monospace, monospace" font-size="11">YORK, PA  ·  U.S. WORK AUTHORIZED</text>
 
-  <g transform="translate(820, 48)" fill="none" stroke="#64FFDA" stroke-width="1.25">
-    <line x1="70" y1="36" x2="130" y2="70" stroke-opacity="0.45"/>
-    <line x1="210" y1="36" x2="150" y2="70" stroke-opacity="0.45"/>
-    <line x1="140" y1="104" x2="140" y2="132" stroke-opacity="0.45"/>
+  <rect x="820" y="36" width="340" height="64" rx="8" fill="#0F172A" fill-opacity="0.72" stroke="#64FFDA" stroke-opacity="0.22"/>
+  <text x="844" y="62" fill="#64748B" font-family="Consolas, ui-monospace, monospace" font-size="10" letter-spacing="1.5">NOW</text>
+  <text x="844" y="84" fill="#E2E8F0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="16" font-weight="600">Giro Credito  ·  Active</text>
 
-    <rect x="20" y="8" width="100" height="36" rx="4" fill="#0B1524" stroke-opacity="0.7"/>
-    <rect x="160" y="8" width="100" height="36" rx="4" fill="#0B1524" stroke-opacity="0.7"/>
-    <rect x="90" y="70" width="100" height="36" rx="4" fill="#0B1524" stroke="#64FFDA" filter="url(#glow)"/>
-    <rect x="90" y="132" width="100" height="28" rx="4" fill="#0B1524" stroke-opacity="0.45"/>
+  <rect x="820" y="108" width="164" height="64" rx="8" fill="#0F172A" fill-opacity="0.72" stroke="#334155" stroke-opacity="0.8"/>
+  <text x="844" y="134" fill="#64748B" font-family="Consolas, ui-monospace, monospace" font-size="10" letter-spacing="1.5">ITLA</text>
+  <text x="844" y="156" fill="#E2E8F0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="16" font-weight="600">GPA 3.8 / 4.0</text>
 
-    <text x="70" y="31" text-anchor="middle" fill="#8892B0" stroke="none" font-family="Consolas, ui-monospace, monospace" font-size="10">APP</text>
-    <text x="210" y="31" text-anchor="middle" fill="#8892B0" stroke="none" font-family="Consolas, ui-monospace, monospace" font-size="10">WEB</text>
-    <text x="140" y="93" text-anchor="middle" fill="#64FFDA" stroke="none" font-family="Consolas, ui-monospace, monospace" font-size="10">API</text>
-    <text x="140" y="150" text-anchor="middle" fill="#8892B0" stroke="none" font-family="Consolas, ui-monospace, monospace" font-size="10">DATA</text>
-  </g>
+  <rect x="996" y="108" width="164" height="64" rx="8" fill="#0F172A" fill-opacity="0.72" stroke="#334155" stroke-opacity="0.8"/>
+  <text x="1020" y="134" fill="#64748B" font-family="Consolas, ui-monospace, monospace" font-size="10" letter-spacing="1.5">HACKATHON</text>
+  <text x="1020" y="156" fill="#E2E8F0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="16" font-weight="600">2nd Place</text>
+
+  <rect x="820" y="180" width="340" height="64" rx="8" fill="#0F172A" fill-opacity="0.72" stroke="#334155" stroke-opacity="0.8"/>
+  <text x="844" y="206" fill="#64748B" font-family="Consolas, ui-monospace, monospace" font-size="10" letter-spacing="1.5">FOCUS</text>
+  <text x="844" y="228" fill="#E2E8F0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="16" font-weight="600">Fintech  ·  AI  ·  Microservices</text>
 </svg>
