@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./header.svg" width="100%" alt="Emil Echavarria — Junior Systems Engineer" />
+  <img src="./header.svg" width="100%" alt="Emil Echavarria — Software Development Technologist" />
 </div>
 
 <br/>
@@ -20,7 +20,7 @@
 
 ## About
 
-Junior Systems Engineer at **Giro Crédito** (fintech, Santo Domingo — remote). I ship production features across the mobile app, web portal, and backend.
+Software Development Technologist at **Giro Crédito** (fintech, Santo Domingo — remote). I ship production features across the mobile app, web portal, and backend.
 
 Academic capstone: a 6-service microservices medical platform with applied ML and OpenAI. 2nd place at the **AlphaRamos Retail Hackathon** with SirenaMap — indoor navigation using ESP32 beacons and trilateration.
 
@@ -36,11 +36,14 @@ Academic capstone: a 6-service microservices medical platform with applied ML an
 <table>
 <tr>
 <td width="8" bgcolor="#3B82F6"></td>
+<td width="72" valign="top">
+  <img src="./giro.svg" width="56" height="56" alt="Giro Credito" />
+</td>
 <td valign="top">
 
-### Junior Systems Engineer · Giro Crédito
+### Software Development Technologist · Giro Crédito
 `Jul 2026 — Present` · Full-time · Remote · Santo Domingo, DR
-&nbsp;&nbsp;<img src="https://img.shields.io/badge/Status-Active-3B82F6?style=flat-square&labelColor=08090D" alt="Active" />
+&nbsp;&nbsp;<img src="https://img.shields.io/badge/Status-Active-47B56F?style=flat-square&labelColor=08090D" alt="Active" />
 
 Fintech. Production work across **three codebases**.
 
@@ -127,7 +130,7 @@ Food ordering platform for clients, businesses, and drivers. Login, catalogs, or
 
 <div align="center">
   <img height="168" src="./stats.svg" alt="GitHub stats" />
-  <img height="168" src="./langs.svg" alt="Languages I ship" />
+  <img height="168" src="./langs.svg" alt="Most Used Languages" />
 </div>
 
 ---
@@ -137,8 +140,8 @@ Food ordering platform for clients, businesses, and drivers. Login, catalogs, or
 <table>
 <tr>
 <td align="center" width="56">🏦</td>
-<td><strong>Junior Systems Engineer — Giro Crédito</strong><br/><sub>Fintech · Production · React Native · Next.js · Django</sub></td>
-<td align="right"><img src="https://img.shields.io/badge/Status-Active-3B82F6?style=flat-square&labelColor=08090D" alt="Active"/></td>
+<td><strong>Software Development Technologist — Giro Crédito</strong><br/><sub>Fintech · Production · React Native · Next.js · Django</sub></td>
+<td align="right"><img src="https://img.shields.io/badge/Status-Active-47B56F?style=flat-square&labelColor=08090D" alt="Active"/></td>
 </tr>
 <tr>
 <td align="center" width="56">🎓</td>
