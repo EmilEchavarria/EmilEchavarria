@@ -1,25 +1,24 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="420" height="195" viewBox="0 0 420 195" fill="none" role="img" aria-label="Languages I ship">
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="195" viewBox="0 0 420 195" fill="none" role="img" aria-label="Most Used Languages">
   <rect width="420" height="195" rx="8" fill="#08090D"/>
-  <text x="20" y="32" fill="#3B82F6" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="15" font-weight="650">Languages I ship</text>
-  <text x="20" y="50" fill="#64748B" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10">Current work  ·  not public-repo byte count</text>
+  <text x="20" y="34" fill="#3B82F6" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="16" font-weight="650">Most Used Languages</text>
 
-  <circle cx="24" cy="74" r="4" fill="#3B82F6"/>
-  <text x="36" y="78" fill="#FFFFFF" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" font-weight="600">TypeScript</text>
-  <text x="400" y="78" text-anchor="end" fill="#94A3B8" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="11">Giro  ·  IntelecMed  ·  AgroGestor</text>
+  <text x="20" y="64" fill="#FFFFFF" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="12">HTML</text>
+  <text x="400" y="64" text-anchor="end" fill="#94A3B8" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="12">38.1%</text>
+  <rect x="20" y="70" width="380" height="6" rx="3" fill="#1E293B"/>
+  <rect x="20" y="70" width="145" height="6" rx="3" fill="#E34C26"/>
 
-  <circle cx="24" cy="100" r="4" fill="#3B82F6"/>
-  <text x="36" y="104" fill="#FFFFFF" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" font-weight="600">Python</text>
-  <text x="400" y="104" text-anchor="end" fill="#94A3B8" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="11">Giro  ·  IntelecMed</text>
+  <text x="20" y="98" fill="#FFFFFF" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="12">TypeScript</text>
+  <text x="400" y="98" text-anchor="end" fill="#94A3B8" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="12">17.1%</text>
+  <rect x="20" y="104" width="380" height="6" rx="3" fill="#1E293B"/>
+  <rect x="20" y="104" width="65" height="6" rx="3" fill="#3178C6"/>
 
-  <circle cx="24" cy="126" r="4" fill="#3B82F6"/>
-  <text x="36" y="130" fill="#FFFFFF" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" font-weight="600">JavaScript</text>
-  <text x="400" y="130" text-anchor="end" fill="#94A3B8" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="11">DashBite  ·  Next / Express</text>
+  <text x="20" y="132" fill="#FFFFFF" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="12">C#</text>
+  <text x="400" y="132" text-anchor="end" fill="#94A3B8" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="12">13.0%</text>
+  <rect x="20" y="138" width="380" height="6" rx="3" fill="#1E293B"/>
+  <rect x="20" y="138" width="49" height="6" rx="3" fill="#239120"/>
 
-  <circle cx="24" cy="152" r="4" fill="#3B82F6"/>
-  <text x="36" y="156" fill="#FFFFFF" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" font-weight="600">Dart</text>
-  <text x="400" y="156" text-anchor="end" fill="#94A3B8" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="11">SirenaMap</text>
-
-  <circle cx="24" cy="178" r="4" fill="#3B82F6"/>
-  <text x="36" y="182" fill="#FFFFFF" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" font-weight="600">C#</text>
-  <text x="400" y="182" text-anchor="end" fill="#94A3B8" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="11">Stockify</text>
+  <text x="20" y="166" fill="#FFFFFF" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="12">CSS</text>
+  <text x="400" y="166" text-anchor="end" fill="#94A3B8" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="12">11.6%</text>
+  <rect x="20" y="172" width="380" height="6" rx="3" fill="#1E293B"/>
+  <rect x="20" y="172" width="44" height="6" rx="3" fill="#563D7C"/>
 </svg>
