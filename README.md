@@ -1,54 +1,60 @@
-# Emil Echavarria
+<a href="https://emilechavarria.vercel.app">
+  <img src="./header.svg" alt="Emil Echavarria — Software Development Technologist" width="100%" />
+</a>
 
-Software Development Technologist at [Giro Crédito](https://girocredito.com) · Fintech · Santo Domingo  
-Web, mobile & backend · PA · U.S. Work Authorized
+<br/>
 
-[Portfolio](https://emilechavarria.vercel.app) · [LinkedIn](https://linkedin.com/in/emil-echavarria) · [Email](mailto:emilechavarria2005@gmail.com)
+<p align="center">
+  <a href="https://emilechavarria.vercel.app"><img src="https://img.shields.io/badge/Portfolio-emilechavarria.vercel.app-0F172A?style=flat&labelColor=6366F1" alt="Portfolio" /></a>
+  &nbsp;
+  <a href="https://linkedin.com/in/emil-echavarria"><img src="https://img.shields.io/badge/LinkedIn-emil--echavarria-0F172A?style=flat&labelColor=38BDF8" alt="LinkedIn" /></a>
+  &nbsp;
+  <a href="mailto:emilechavarria2005@gmail.com"><img src="https://img.shields.io/badge/Email-emilechavarria2005@gmail.com-0F172A?style=flat&labelColor=A78BFA" alt="Email" /></a>
+</p>
 
----
+<img src="./divider.svg" alt="" width="100%" />
 
-## About
+### Now
 
-I ship production features across mobile, web, and backend at a fintech. Capstone: a 6-service medical microservices platform with ML and OpenAI. 2nd place at the AlphaRamos Retail Hackathon (SirenaMap — indoor navigation with ESP32 beacons).
+Shipping production fintech at **Giro Crédito** — mobile, web, and backend in the same week.  
+Capstone: 6-service medical platform with ML + OpenAI. Hackathon: **2nd** with SirenaMap (ESP32 indoor GPS).
 
-- Building **AgroGestor**, an agricultural SaaS with an AI assistant
-- **ITLA** — Software Development · GPA 3.8/4.0 · graduating Oct 2026
-- Spanish (native) · English (intermediate)
+| | |
+|:--|:--|
+| **Focus** | React Native · Next.js · Django · TypeScript |
+| **School** | ITLA · GPA 3.8/4.0 · Oct 2026 |
+| **Lang** | ES native · EN intermediate |
+| **Status** | PA · U.S. Work Authorized |
 
----
+<img src="./divider.svg" alt="" width="100%" />
 
-## Experience
+### Experience
 
-### Software Development Technologist · Giro Crédito
-Jul 2026 — Present · Full-time · Remote
+**Software Development Technologist · Giro Crédito**  
+`Jul 2026 — Present` · Full-time · Remote · Santo Domingo
 
-Production work across three codebases:
+| Area | What I ship |
+|:--|:--|
+| **Mobile** | React Native / Expo — loans, KYC, referrals, payments · Maestro E2E |
+| **Web** | Next.js — referral landing, KYC, MDX blog, Meta / UTM attribution |
+| **Backend** | Django — re-offers, deep links, Meta Conversions, multichannel collections |
 
-- **Mobile** — React Native, Expo, TypeScript. Loans, collections, KYC, referrals/points, payments; Maestro E2E
-- **Web** — Next.js, React, TypeScript, Tailwind. Referral landing, KYC, MDX blog, Meta/UTM attribution
-- **Backend** — Python, Django. REST APIs for re-offers, deep links, Meta Conversions, multichannel collections
+<img src="./divider.svg" alt="" width="100%" />
 
-`TypeScript` · `React Native` · `Expo` · `Next.js` · `Python` · `Django` · `PostgreSQL` · `Celery` · `Redis` · `AWS`
+### Selected work
 
----
+| Project | Stack | Note |
+|:--|:--|:--|
+| **[IntelecMed](https://github.com/EmilEchavarria/intelecmed)** | NestJS · FastAPI · Next.js · ML · OpenAI | CDSS · 6 microservices · RAG / triage / Vision |
+| **AgroGestor** | Next.js · Express · PostgreSQL · OpenAI | Agricultural SaaS · AI assistant “Oli” · *in progress* |
+| **SirenaMap** | Flutter · ESP32 · BLE | Indoor GPS · trilateration · AlphaRamos 2nd |
+| **DashBite** | Express · MySQL · Railway | Food ordering · clients · drivers · admin |
 
-## Projects
+<img src="./divider.svg" alt="" width="100%" />
 
-**[IntelecMed](https://github.com/EmilEchavarria/intelecmed)** — NestJS, FastAPI, Next.js, ML, OpenAI  
-Clinical Decision Support System. Six microservices, RandomForest/XGBoost risk models, GPT features (RAG, triage, forecast, Vision).
+<p align="center">
+  <sub>Built for clarity · Updated 2026</sub>
+</p>
 
-**AgroGestor** *(in progress)* — Next.js, Express, PostgreSQL, OpenAI  
-Agricultural SaaS: crops, inventory, sales, expenses, RBAC, AI assistant “Oli”.
-
-**SirenaMap** — Flutter, ESP32, BLE  
-2nd place, AlphaRamos Hackathon. Indoor GPS via trilateration (~±2 m).
-
-**DashBite**  Express, Handlebars, MySQL  
-Food ordering for clients, businesses, and drivers.
-
----
-
-## Stack
-
-TypeScript · JavaScript · Python · React · Next.js · React Native · Expo · Node · Express · NestJS · Django  PostgreSQL · Redis · Docker · AWS · Git
-
+<!-- profile views (pixel = nearly invisible) -->
+![Profile views](https://komarev.com/ghpvc/?username=EmilEchavarria&style=pixel&color=0F172A)
