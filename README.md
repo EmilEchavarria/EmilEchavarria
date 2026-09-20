@@ -1,156 +1,54 @@
-<div align="center">
-  <img src="./header.svg" width="100%" alt="Emil Echavarria — Software Development Technologist" />
-</div>
+# Emil Echavarria
 
-<br/>
+Software Development Technologist at [Giro Crédito](https://girocredito.com) · Fintech · Santo Domingo  
+Web, mobile & backend · PA · U.S. Work Authorized
 
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=3B82F6&center=true&vCenter=true&width=680&lines=Shipping+production+fintech+at+Giro+Credito;Next.js+%C2%B7+Express+%C2%B7+NestJS;React+Native+%C2%B7+Python+%C2%B7+Django;PA+%E2%80%94+U.S.+Work+Authorized)](https://git.io/typing-svg)
-
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-emilechavarria.vercel.app-3B82F6?style=for-the-badge&logo=vercel&logoColor=3B82F6&labelColor=08090D)](https://emilechavarria.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-emil--echavarria-3B82F6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=08090D)](https://linkedin.com/in/emil-echavarria)
-[![Email](https://img.shields.io/badge/Email-emilechavarria2005@gmail.com-3B82F6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=08090D)](mailto:emilechavarria2005@gmail.com)
-
-</div>
+[Portfolio](https://emilechavarria.vercel.app) · [LinkedIn](https://linkedin.com/in/emil-echavarria) · [Email](mailto:emilechavarria2005@gmail.com)
 
 ---
 
 ## About
 
-Software Development Technologist at **Giro Crédito** (fintech, Santo Domingo — remote). I ship production features across the mobile app, web portal, and backend.
-
-Academic capstone: a 6-service microservices medical platform with applied ML and OpenAI. 2nd place at the **AlphaRamos Retail Hackathon** with SirenaMap — indoor navigation using ESP32 beacons and trilateration.
+I ship production features across mobile, web, and backend at a fintech. Capstone: a 6-service medical microservices platform with ML and OpenAI. 2nd place at the AlphaRamos Retail Hackathon (SirenaMap — indoor navigation with ESP32 beacons).
 
 - Building **AgroGestor**, an agricultural SaaS with an AI assistant
-- **ITLA** — graduating October 2026 · GPA 3.8/4.0
+- **ITLA** — Software Development · GPA 3.8/4.0 · graduating Oct 2026
 - Spanish (native) · English (intermediate)
-- **PA** · U.S. Work Authorized · No sponsorship required
 
 ---
 
 ## Experience
 
-<table>
-<tr>
-<td width="8" bgcolor="#3B82F6"></td>
-<td width="72" valign="top">
-  <img src="./giro.svg" width="56" height="56" alt="Giro Credito" />
-</td>
-<td valign="top">
-
 ### Software Development Technologist · Giro Crédito
-`Jul 2026 — Present` · Full-time · Remote · Santo Domingo, DR
-&nbsp;&nbsp;<img src="https://img.shields.io/badge/Status-Active-47B56F?style=flat-square&labelColor=08090D" alt="Active" />
+Jul 2026 — Present · Full-time · Remote
 
-Fintech. Production work across **three codebases**.
+Production work across three codebases:
 
-**Mobile** — React Native, Expo, TypeScript. Loan and collections UX: Giro Cuotas, Giro Solidario, Friends & Family, Giro Puntos (referrals, points, checkout redemption), KYC, Plan de Pago, bank-account confirmation, and zero-interest extensions. Home-screen UI refresh. Maestro E2E for auth, forms, loans, and payments.
+- **Mobile** — React Native, Expo, TypeScript. Loans, collections, KYC, referrals/points, payments; Maestro E2E
+- **Web** — Next.js, React, TypeScript, Tailwind. Referral landing, KYC, MDX blog, Meta/UTM attribution
+- **Backend** — Python, Django. REST APIs for re-offers, deep links, Meta Conversions, multichannel collections
 
-**Web** — Next.js, React, TypeScript, Tailwind. Public referral landing with app-download tracking, KYC improvements, MDX blog, brand updates, and Meta / UTM attribution.
-
-**Backend** — Python, Django, Django Ninja. REST APIs for loan re-offers, deep links (WhatsApp / push / SMS / email), Meta Conversions API, and Giro Cobros — multichannel collections (push, WhatsApp, SMS, email, voice).
-
-Cross-board: API contracts, edge cases, and production releases.
-
-`TypeScript` `React Native` `Expo` `Next.js` `Python` `Django` `PostgreSQL` `Celery` `Redis` `AWS`
-
-</td>
-</tr>
-</table>
+`TypeScript` · `React Native` · `Expo` · `Next.js` · `Python` · `Django` · `PostgreSQL` · `Celery` · `Redis` · `AWS`
 
 ---
 
-## Tech Stack
+## Projects
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,py,cs,react,nextjs,tailwind,flutter,figma,nodejs,express,nestjs,django,fastapi,dotnet,postgres,mongodb,mysql,redis,prisma,docker,aws,git,vercel&perline=12" alt="Tech stack" />
-</div>
+**[IntelecMed](https://github.com/EmilEchavarria/intelecmed)** — NestJS, FastAPI, Next.js, ML, OpenAI  
+Clinical Decision Support System. Six microservices, RandomForest/XGBoost risk models, GPT features (RAG, triage, forecast, Vision).
 
-<br/>
+**AgroGestor** *(in progress)* — Next.js, Express, PostgreSQL, OpenAI  
+Agricultural SaaS: crops, inventory, sales, expenses, RBAC, AI assistant “Oli”.
 
-**Also:** Expo · Celery · Railway · OpenAI · scikit-learn · XGBoost
+**SirenaMap** — Flutter, ESP32, BLE  
+2nd place, AlphaRamos Hackathon. Indoor GPS via trilateration (~±2 m).
 
----
-
-## Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### [IntelecMed](https://github.com/EmilEchavarria/intelecmed) — CDSS
-**NestJS · FastAPI · Next.js · PostgreSQL · MongoDB · Docker · AWS S3 · OpenAI · scikit-learn · XGBoost**
-
-Academic capstone. Microservices Clinical Decision Support System with 6 independent services. RandomForest + XGBoost for cardiovascular and diabetes risk. Five GPT features: RAG over patient records, AI triage, 6-month forecast, and clinical document Vision. RBAC, JWT rotation, brute-force detection.
-
-`Microservices` `Machine Learning` `HealthTech` `AI`
-
-</td>
-<td width="50%" valign="top">
-
-### AgroGestor *(In Progress)*
-**Next.js · Express.js · PostgreSQL · Tailwind · Railway · OpenAI**
-
-Agricultural SaaS for crop control, inventory, sales, and expenses. Tiered plans (Basic, Pro, Enterprise) with RBAC. “Oli” — AI assistant for pest management and real-time farm support.
-
-`SaaS` `Full-Stack` `AI Integration` `Agriculture`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### SirenaMap
-**Flutter · ESP32 · BLE · Trilateration**
-
-2nd place — AlphaRamos Retail Hackathon. Indoor GPS for supermarkets with ESP32 beacons and trilateration (~±2 m). Lead on mobile, IoT, and landing.
-
-`Hackathon` `IoT` `Mobile` `Indoor Navigation`
-
-</td>
-<td width="50%" valign="top">
-
-### DashBite
-**Express.js · Handlebars · JavaScript · Tailwind · MySQL · Railway**
-
-Food ordering platform for clients, businesses, and drivers. Login, catalogs, order tracking, reports, and admin panels.
-
-`Full-Stack` `REST APIs` `Dashboard`
-
-</td>
-</tr>
-</table>
+**DashBite**  Express, Handlebars, MySQL  
+Food ordering for clients, businesses, and drivers.
 
 ---
 
-## GitHub Stats
+## Stack
 
-<div align="center">
-  <img height="168" src="./stats.svg" alt="GitHub stats" />
-  <img height="168" src="./langs.svg" alt="Most Used Languages" />
-</div>
+TypeScript · JavaScript · Python · React · Next.js · React Native · Expo · Node · Express · NestJS · Django  PostgreSQL · Redis · Docker · AWS · Git
 
----
-
-## Highlights
-
-<table>
-<tr>
-<td align="center" width="56">🏦</td>
-<td><strong>Software Development Technologist — Giro Crédito</strong><br/><sub>Fintech · Production · React Native · Next.js · Django</sub></td>
-<td align="right"><img src="https://img.shields.io/badge/Status-Active-47B56F?style=flat-square&labelColor=08090D" alt="Active"/></td>
-</tr>
-<tr>
-<td align="center" width="56">🎓</td>
-<td><strong>ITLA — Technologist in Software Development</strong><br/><sub>GPA 3.8 / 4.0 · Graduating October 2026</sub></td>
-<td align="right"><img src="https://img.shields.io/badge/GPA-3.8%2F4.0-3B82F6?style=flat-square&labelColor=08090D" alt="GPA"/></td>
-</tr>
-<tr>
-<td align="center" width="56">🏆</td>
-<td><strong>2nd Place — AlphaRamos Retail Hackathon</strong><br/><sub>SirenaMap · ESP32 beacons · indoor navigation · ±2m</sub></td>
-<td align="right"><img src="https://img.shields.io/badge/Hackathon-Winner-3B82F6?style=flat-square&labelColor=08090D" alt="Winner"/></td>
-</tr>
-</table>
