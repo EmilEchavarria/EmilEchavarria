@@ -1,60 +1,43 @@
-<a href="https://emilechavarria.vercel.app">
-  <img src="./header.svg" alt="Emil Echavarria — Software Development Technologist" width="100%" />
-</a>
+# Emil Echavarria
 
-<br/>
+Full-stack developer focused on shipping production software across web, mobile, and backend. Based in Santo Domingo, DR.
 
-<p align="center">
-  <a href="https://emilechavarria.vercel.app"><img src="https://img.shields.io/badge/Portfolio-emilechavarria.vercel.app-0F172A?style=flat&labelColor=6366F1" alt="Portfolio" /></a>
-  &nbsp;
-  <a href="https://linkedin.com/in/emil-echavarria"><img src="https://img.shields.io/badge/LinkedIn-emil--echavarria-0F172A?style=flat&labelColor=38BDF8" alt="LinkedIn" /></a>
-  &nbsp;
-  <a href="mailto:emilechavarria2005@gmail.com"><img src="https://img.shields.io/badge/Email-emilechavarria2005@gmail.com-0F172A?style=flat&labelColor=A78BFA" alt="Email" /></a>
-</p>
+[Portfolio](https://emilechavarria.vercel.app) · [LinkedIn](https://linkedin.com/in/emil-echavarria) · [Email](mailto:emilechavarria2005@gmail.com)
 
-<img src="./divider.svg" alt="" width="100%" />
+## About
 
-### Now
+I build product features end to end — UI, APIs, and the edge cases between them. Right now I contribute to a Dominican fintech (web + mobile), and I keep shipping side projects in SaaS and healthtech.
 
-Shipping production fintech at **Giro Crédito** — mobile, web, and backend in the same week.  
-Capstone: 6-service medical platform with ML + OpenAI. Hackathon: **2nd** with SirenaMap (ESP32 indoor GPS).
+ITLA — Software Development Technologist (GPA 3.8/4.0, graduating Oct 2026). Meta Front-End Developer Professional Certificate. Spanish native · English intermediate. PA · U.S. work authorized.
 
-| | |
-|:--|:--|
-| **Focus** | React Native · Next.js · Django · TypeScript |
-| **School** | ITLA · GPA 3.8/4.0 · Oct 2026 |
-| **Lang** | ES native · EN intermediate |
-| **Status** | PA · U.S. Work Authorized |
+## Experience
 
-<img src="./divider.svg" alt="" width="100%" />
+**Full-Stack Developer (Part-Time) — Giro Crédito**  
+Jan 2026 — Present · Remote · Santo Domingo, DR
 
-### Experience
+Fintech serving users on web and mobile. Contributed to **Giro Puntos** (loyalty & referrals): referral registration, points balance on home, checkout redemption. Led a mobile home-screen UI refresh, built the public referral landing with app-download tracking, and integrated REST APIs with the backend team (React, React Native, Django, Python).
 
-**Software Development Technologist · Giro Crédito**  
-`Jul 2026 — Present` · Full-time · Remote · Santo Domingo
+**Freelance Web Developer — Wix Studio**  
+Sep 2025 — Feb 2026 · Distrito Nacional, DR
 
-| Area | What I ship |
-|:--|:--|
-| **Mobile** | React Native / Expo — loans, KYC, referrals, payments · Maestro E2E |
-| **Web** | Next.js — referral landing, KYC, MDX blog, Meta / UTM attribution |
-| **Backend** | Django — re-offers, deep links, Meta Conversions, multichannel collections |
+Sole developer on a monthly retainer: site maintenance, new sections/content, performance, and UX on Wix Studio. Delivered on schedule for the full engagement.
 
-<img src="./divider.svg" alt="" width="100%" />
+**Hackathon — AlphaRamos Retail (2nd place)**  
+2025 · Distrito Nacional, DR
 
-### Selected work
+Lead developer for **SirenaMap**: Flutter app, ESP32 BLE beacons, trilateration (~±2 m indoor accuracy), and marketing landing — shipped under a tight hackathon timeline.
 
-| Project | Stack | Note |
-|:--|:--|:--|
-| **[IntelecMed](https://github.com/EmilEchavarria/intelecmed)** | NestJS · FastAPI · Next.js · ML · OpenAI | CDSS · 6 microservices · RAG / triage / Vision |
-| **AgroGestor** | Next.js · Express · PostgreSQL · OpenAI | Agricultural SaaS · AI assistant “Oli” · *in progress* |
-| **SirenaMap** | Flutter · ESP32 · BLE | Indoor GPS · trilateration · AlphaRamos 2nd |
-| **DashBite** | Express · MySQL · Railway | Food ordering · clients · drivers · admin |
+## Projects
 
-<img src="./divider.svg" alt="" width="100%" />
+- **[OneDigs](https://emilechavarria.vercel.app/projects)** — Property-management SaaS for landlords in the DR. Properties/units, leases, rent collection, maintenance tickets, branded tenant portal, public catalog, and an AI assistant. Next.js, React, Tailwind.
+- **[IntelecMed](https://github.com/EmilEchavarria/intelecmed)** — Clinical decision support platform. Six microservices (NestJS + FastAPI), ML risk models (RandomForest / XGBoost + SHAP), OpenAI features (RAG, triage, forecast, Vision).
 
-<p align="center">
-  <sub>Built for clarity · Updated 2026</sub>
-</p>
+## Stack
+
+**Frontend:** TypeScript, JavaScript, React, Next.js, React Native, Expo, Flutter, Angular, Tailwind  
+**Backend:** Node.js, Express, NestJS, Python, Django, FastAPI, C# / .NET  
+**Data & infra:** PostgreSQL, MySQL, MongoDB, Redis, Prisma, Docker, AWS, Railway, Git  
+**Also:** OpenAI, scikit-learn, XGBoost, Chart.js, Arduino / ESP32, Figma, Wix Studio
 
 <!-- profile views (pixel = nearly invisible) -->
 ![Profile views](https://komarev.com/ghpvc/?username=EmilEchavarria&style=pixel&color=0F172A)
